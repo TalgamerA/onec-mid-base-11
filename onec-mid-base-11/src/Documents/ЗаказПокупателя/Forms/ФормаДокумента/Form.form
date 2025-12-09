@@ -173,6 +173,10 @@
         <dataPath xsi:type="form:DataPath">
           <segments>Объект.Д_СогласованнаяСкидка</segments>
         </dataPath>
+        <handlers>
+          <event>OnChange</event>
+          <name>Д_СогласованнаяСкидкаПриИзменении</name>
+        </handlers>
         <extendedTooltip>
           <name>Д_СогласованнаяСкидкаРасширеннаяПодсказка</name>
           <id>171</id>
